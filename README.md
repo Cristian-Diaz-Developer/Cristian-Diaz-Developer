@@ -1,7 +1,6 @@
 ### 
-<img align="left"  src="https://media.giphy.com/media/s7kxb0LCsKrpsGVjMh/giphy.gif" alt="Nitish Awasthi" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
- </br>
- </br>
+<img align="left"  src="https://media.giphy.com/media/s7kxb0LCsKrpsGVjMh/giphy.gif" alt="Nitish Awasthi" width="800" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+</br></br></br>
 ### I know more about- </br>
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
