@@ -1,6 +1,6 @@
 ### 
 <img align="left"  src="https://media.giphy.com/media/s7kxb0LCsKrpsGVjMh/giphy.gif" alt="Nitish Awasthi" width="800" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-</br></br></br>
+</br></br></br></br></br>
 ### I know more about- </br>
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
@@ -13,10 +13,6 @@
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 </br></br></br></br>
-
-
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">  
     <a href="https://www.linkedin.com/in/iamcristiandiaz/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
