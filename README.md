@@ -1,5 +1,5 @@
 ### 
-![](https://media.giphy.com/media/bn3LtyAvhV8SYXYd4D/giphy.gif) width="600" height="150"
+<img align="center"  src="https://media.giphy.com/media/bn3LtyAvhV8SYXYd4D/giphy.gif" alt="Cristian Diaz" width="800" height="400"/>
 </br>
 ### I know more about-</br>
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
