@@ -21,6 +21,6 @@
 <a href="mailto:crixtean0922@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
   </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian-Diaz-Developer&show_icons=true&theme=onedark&text_color=(B6B6B6)&title_color=FFF&bg_color=000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian-Diaz-Developer&show_icons=true&theme=onedark&text_color=(F5F5F5)&title_color=FFF&bg_color=000000&icon_color=00F7FF)
 
   
