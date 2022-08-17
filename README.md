@@ -1,5 +1,5 @@
 ### 
-<img align="left"  src="https://media.giphy.com/media/8RsVcv9d5909iRQEgy/giphy.gif" alt="Nitish Awasthi" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</br></br>
+<img align="left"  src="https://media.giphy.com/media/8RsVcv9d5909iRQEgy/giphy.gif" alt="Nitish Awasthi" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
 <img align="" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200" height="200"/>
 </br>
 ### I know more about-</br>
