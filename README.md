@@ -14,7 +14,7 @@
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 </br></br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cristian-diaz-developer&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian-Diaz-Developer &show_icons=true)
 
   <p align="center">  
     <a href="https://www.linkedin.com/in/iamcristiandiaz/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
