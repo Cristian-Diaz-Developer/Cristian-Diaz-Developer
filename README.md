@@ -20,7 +20,7 @@
   <a href="https://www.instagram.com/iamcristian.digital/" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
 <a href="mailto:crixtean0922@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
   </p>
-<div align ="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian-Diaz-Developer&show_icons=true&theme=onedark)
-</div>
+
   
