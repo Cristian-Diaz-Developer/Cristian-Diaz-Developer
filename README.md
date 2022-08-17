@@ -15,7 +15,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 </br></br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian-Diaz-Developer
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian-Diaz-Developer&show_icons=true&theme=onedark)
 
   <p align="center">  
     <a href="https://www.linkedin.com/in/iamcristiandiaz/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
